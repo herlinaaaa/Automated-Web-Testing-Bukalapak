@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Address_Failed_AllNull</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a41a13f8-058d-4256-a52b-3aaf11b828ae</testCaseGuid>
+</TestCaseEntity>

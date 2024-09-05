@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Slide to complete the puzzle_geetest_sl_35b6bb</name>
+   <tag></tag>
+   <elementGuidId>6f619b07-43ed-40c4-858e-2d0507958563</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.geetest_slider_button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div[2]/div/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.geetest_slider_button</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fb9990e2-ba33-4c6c-9724-e92263b14169</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>geetest_slider_button</value>
+      <webElementGuid>b3ae89c5-a4d3-4fa9-9ef7-68af5da470bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;geetest_holder geetest_mobile geetest_ant geetest_popup&quot;]/div[@class=&quot;geetest_popup_box&quot;]/div[@class=&quot;geetest_popup_wrap&quot;]/div[@class=&quot;geetest_wrap&quot;]/div[@class=&quot;geetest_slider geetest_lock&quot;]/div[@class=&quot;geetest_slider_button&quot;]</value>
+      <webElementGuid>5c3d8e3d-86db-4a77-b34b-6ac12e3ed21e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Bukalapak/Register/iframe_Request unsuccessful. Incapsula inci_d47fd5</value>
+      <webElementGuid>9149b269-8630-447a-846c-c5c4f554cc5e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[2]/div[2]</value>
+      <webElementGuid>030d91d7-c12d-44e1-9a5d-4657ce4ed29f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
