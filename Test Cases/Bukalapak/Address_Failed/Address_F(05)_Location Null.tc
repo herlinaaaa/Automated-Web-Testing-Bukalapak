@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Address_F(05)_Location Null</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>56f86a0d-ed5c-4bc4-9d34-afff9893f3f5</testCaseGuid>
+</TestCaseEntity>

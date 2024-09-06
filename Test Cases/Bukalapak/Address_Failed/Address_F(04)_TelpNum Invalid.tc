@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Address_F(04)_TelpNum Invalid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d911ae90-ce3a-4ac8-a6e7-db15d056712b</testCaseGuid>
+</TestCaseEntity>
