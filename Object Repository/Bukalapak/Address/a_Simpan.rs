@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Simpan</name>
+   <tag></tag>
+   <elementGuidId>53599ee4-76d5-48e9-aac8-44a582774181</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='vm-user-addresses']/div[2]/div[2]/div[2]/div/div/div/div/div[2]/div/div/div/div/div/div/form/div[2]/div/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.qa-submit-undefined.c-btn.c-btn--.c-btn--red</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>a >> internal:has-text=&quot;Simpan&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f1beae9a-e32e-4ee2-8e2f-a60d14625f96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>qa-submit-undefined c-btn c-btn-- c-btn--red</value>
+      <webElementGuid>06a4d392-cf4b-440d-975c-ccd107b78e76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+      Simpan
+    </value>
+      <webElementGuid>6457603a-b412-4b47-9e45-3f37c9d94ea2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vm-user-addresses&quot;)/div[2]/div[2]/div[2]/div[@class=&quot;c-remodal c-remodal--medium&quot;]/div[@class=&quot;c-remodal__wrapper&quot;]/div[@class=&quot;c-remodal__content&quot;]/div[@class=&quot;c-remodal__panel&quot;]/div[@class=&quot;c-remodal__panel__body&quot;]/div[1]/div[1]/div[@class=&quot;c-tab c-tab--inside&quot;]/div[@class=&quot;c-tab__content is-active&quot;]/div[@class=&quot;c-tab__content__body&quot;]/div[1]/form[1]/div[@class=&quot;c-modal__footer&quot;]/div[@class=&quot;u-clearfix&quot;]/div[@class=&quot;u-align-right&quot;]/div[1]/a[@class=&quot;qa-submit-undefined c-btn c-btn-- c-btn--red&quot;]</value>
+      <webElementGuid>85648e8d-93c6-47e1-9f8f-4324f4c44131</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='vm-user-addresses']/div[2]/div[2]/div[2]/div/div/div/div/div[2]/div/div/div/div/div/div/form/div[2]/div/div/div/a</value>
+      <webElementGuid>fff48d56-a83c-4b2a-8641-f5535616bd14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat Lengkap'])[1]/following::a[1]</value>
+      <webElementGuid>ec4660cf-36fd-4b91-8534-2ff9d1f17356</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kecamatan / Kota / Provinsi'])[1]/following::a[1]</value>
+      <webElementGuid>e76131e2-e5b1-4246-9126-6269675e6403</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat Sebagai'])[2]/preceding::a[1]</value>
+      <webElementGuid>203613a7-980c-4325-8494-50d9ffcd6946</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/a</value>
+      <webElementGuid>7fdd199d-340b-4af2-a3e8-bc99c65f8fa6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = '
+      Simpan
+    ' or . = '
+      Simpan
+    ')]</value>
+      <webElementGuid>bac41434-e9b3-47e5-b390-928beaa1e077</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
